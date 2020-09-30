@@ -1,0 +1,28 @@
+﻿Course Code,Normal Year Taken,TeamsAccount,Course Name,School Acronym Suffix
+MATH07004,1,mteams1,Introductory Mathematics with Applications,IMA
+MATH08057,1,mteams1,Introduction to Linear Algebra,ILA
+MATH08072,1,mteams1,Mathematics for the Natural Sciences 1a,MNS
+MATH08074,1,mteams1,Engineering Mathematics 1a,EM
+MATH08077,1,mteams1,Introduction to Data Science,IDS
+MATH08063,2,mteams2,Several Variable Calculus and Differential Equations,SVCDE
+MATH08068,2,mteams2,Facets of Mathematics,Facets
+MATH08071,2,mteams2,Accelerated Proofs and Problem Solving,APPS
+MATH10066,3,mteams3,Honours Differential Equations,HDEq
+MATH10069,3,mteams3,Honours Algebra,HAlg
+MATH10074,3,mteams3,Geometry,Geom
+MATH10095,3,mteams3,Statistical Methodology,StMe
+MATH10098,3,mteams3,Numerical Linear Algebra,NLA
+MATH10010,4,mteams4,Mathematical Education,MEd
+MATH10013,4,mteams4,Mathematical Biology,MBi
+MATH10024,4,mteams4,"Probability, Measure & Finance",PMF
+MATH10053,4,mteams4,Applied Stochastic Differential Equations,ASDE
+MATH10065,4,mteams4,Fundamentals of Operational Research,FuOR
+MATH10079,4,mteams4,Group Theory,GTh
+MATH10082,4,mteams4,Linear Analysis,LAn
+MATH10102,4,mteams4,Statistical Case Studies,SCS
+MATH11143,5,mteams5,Topics in Noncommutative Algebra,TNA
+MATH11007,P,mteams6,"Methodology, Modelling and Consulting Skills",MMCS
+MATH11111,P,mteams6,Fundamentals of Optimization,FuO
+MATH11153,P,mteams6,Discrete-Time Finance,DTF
+MATH11177,P,mteams6,Bayesian Theory,BTh
+MATH10086,4,mteams4,Advanced Methods of Applied Mathematics,AMAM
